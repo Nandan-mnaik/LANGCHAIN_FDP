@@ -1,0 +1,7 @@
+langchain
+langchain community
+Ollama
+LLAMA 3.1
+Langchain embeddings
+Huggingface Embeddings
+FAISS
